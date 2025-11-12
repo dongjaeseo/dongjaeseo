@@ -4,4 +4,4 @@ Completed B.Tech & M.Tech (Dual Degree) in Engineering Design from IIT Madras.
 
 🌱 **Research Interests**
 
-AI for Healthcare · Sleep Studies · Medical Imaging · Representation Learning 
+AI for Healthcare · Sleep Studies · Medical Imaging · Multi-Modal Learning · Representation Learning 
