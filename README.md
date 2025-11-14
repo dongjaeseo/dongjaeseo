@@ -1,4 +1,5 @@
 ## DongJae Seo
+Email: ehdwo030303@gmail.com
 Research Intern at the AIoT Lab, Seoul National University.  
 Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras.
 
