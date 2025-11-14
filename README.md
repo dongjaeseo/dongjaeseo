@@ -5,6 +5,7 @@ Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras.
 AI for Healthcare · Sleep Staging · Medical Imaging  
 Foundation Models · Multi-Modal Learning
 
+## 📁 Project Overview
 | Project | Description |
 |--------|-------------|
 | [sleep-stage-classification](./sleep-stage-classification) | Sleep staging using MOMENT + Mamba |
