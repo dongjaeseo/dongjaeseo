@@ -7,7 +7,7 @@ Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras. (Prof. Gana
 Visit my [Website!](https://dongjaeseo.github.io)
 
 ## 🔍 Research Interests  
-AI for Healthcare · Medical Imaging · Physiological Time-series  
+Healthcare AI · Medical Imaging · Physiological Time-series  
 Sleep studies · Foundation Models · Representation Learning
 
 ## 📁 Project Overview
