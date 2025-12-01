@@ -1,12 +1,12 @@
 ## DongJae Seo
 Email: ehdwo030303@gmail.com
 
-Research Intern at the AIoT Lab, Seoul National University.  
-Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras.
+Research Intern at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim)  
+Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras. (Prof. Ganapathy Krishnamurthi)
 
 ## 🔍 Research Interests  
-AI for Healthcare · Sleep Staging · Medical Imaging  
-Foundation Models · Multi-Modal Learning
+AI for Healthcare · Medical Imaging · Physiological Time-series  
+Sleep studies · Foundation Models · Representation Learning
 
 ## 📁 Project Overview
 | Project | Description |
