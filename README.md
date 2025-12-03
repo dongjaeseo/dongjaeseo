@@ -1,4 +1,4 @@
-## DongJae Seo
+## Dongjae Seo
 Email: ehdwo030303@gmail.com
 
 Research Intern at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim)  
