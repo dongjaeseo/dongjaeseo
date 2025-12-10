@@ -19,4 +19,4 @@ Sleep Studies · Foundation Models · Representation Learning
 | [mini-projects](https://github.com/dongjaeseo/mini-projects) | Early AI projects: lane detection, captioning, etc. |
 | [ai-fundamentals](https://github.com/dongjaeseo/ai-fundamentals) | Basic ML/DL practice scripts from AI Academy |
 
-[Website: ](https://dongjaeseo.github.io)
+Website: [https://dongjaeseo.github.io](https://dongjaeseo.github.io)
