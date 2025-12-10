@@ -1,7 +1,7 @@
 ## Dongjae Seo
 Email: ehdwo030303@gmail.com
 
-Research Intern at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim)  
+Currently Research Intern at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim)  
 Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras. (Prof. Ganapathy Krishnamurthi) 
 
 ## 🔍 Research Interests  
