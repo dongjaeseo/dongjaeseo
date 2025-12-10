@@ -5,10 +5,10 @@ Research Intern at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim
 Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras. (Prof. Ganapathy Krishnamurthi) 
 
 I work on machine learning for clinical data, focusing on medical imaging and long physiological signals.
-Currently working on sleep foundation model.
+Currently working on developing a sleep-specific foundation model in the AIoT lab
 
 ## 🔍 Research Interests  
-Healthcare AI · Medical Imaging · Physiological Signals
+Healthcare AI · Medical Imaging · Physiological Signals  
 Sleep Studies · Foundation Models · Representation Learning
 
 ## 📁 Project Overview
