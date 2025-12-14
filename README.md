@@ -4,12 +4,12 @@ Email: ehdwo030303@gmail.com
 Research Intern at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim)  
 Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras. (Prof. Ganapathy Krishnamurthi) 
 
-I work on machine learning for clinical data, focusing on medical imaging and long physiological signals.  
-Currently working on developing a sleep-specific foundation model in the AIoT lab
+I work on machine learning for clinical data, with a focus on medical imaging and long physiological time series data.
+Currently working on a project centered on a sleep specific foundation model in the AIoT Lab
 
 ## 🔍 Research Interests  
-Healthcare AI · Medical Imaging · Physiological Signals  
-Sleep Studies · Foundation Models · Representation Learning
+Healthcare AI · Medical Imaging · Physiological Time-Series  
+Representation Learning · Sleep Studies · Foundation Models
 
 ## 📁 Project Overview
 | Project | Description |
