@@ -1,15 +1,15 @@
 ## Dongjae Seo
 Email: ehdwo030303@gmail.com
 
-Research Intern (Jul 2025 – Dec 2025) at the AIoT Lab, Seoul National University. (Prof. Hyung-sin Kim)  
-Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras. (Prof. Ganapathy Krishnamurthi) 
+Research Intern (Jul 2025 – Dec 2025) at the AIoT Lab, Seoul National University (Prof. Hyung-sin Kim)  
+Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras (Prof. Ganapathy Krishnamurthi) 
 
 I work on machine learning for clinical data, focusing on representation learning for medical imaging and long physiological time series. 
 At the AIoT Lab, I studied sleep stage modeling to understand representation quality and temporal context in foundation models.
 
 ## 🔍 Research Interests  
 Healthcare AI · Medical Imaging · Physiological Time-Series  
-Representation Learning · Robust Machine Learning · Sleep Studies
+Representation Learning · Robust Machine Learning · Sleep Studies 
 
 ## 📁 Project Overview
 | Project | Description |
