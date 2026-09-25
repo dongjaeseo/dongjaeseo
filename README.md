@@ -1,22 +1,26 @@
+Here's an updated version you can paste. It adds your current Stony Brook role, keeps your earlier work, and links your two main repos.
+
+markdown
 ## Dongjae Seo
-Email: ehdwo030303@gmail.com
+Email: dongjae.seo@stonybrook.edu
 
-Research Intern (Jul 2025 – Dec 2025) at the AIoT Lab, Seoul National University (Prof. Hyung-sin Kim)  
-Dual Degree (B.Tech + M.Tech) in Engineering Design from IIT Madras (Prof. Ganapathy Krishnamurthi) 
+MS Computer Science student at **Stony Brook University**  
+Graduate Researcher, **Photon Intelligence Lab** (Prof. Akshat Dave)
 
-I work on machine learning for clinical data, focusing on representation learning for medical imaging and long physiological time series. 
-At the AIoT Lab, I studied sleep stage modeling to understand representation quality and temporal context in foundation models.
+I work on machine learning for imaging and physiological signals.  
+Currently, I'm working on 3D diffuse optical tomography (DOT): simulating light transport through tissue on GPU and reconstructing volumes from simulated measurements.
 
-## 🔍 Research Interests  
-Healthcare AI · Medical Imaging · Physiological Time-Series  
-Representation Learning · Robust Machine Learning · Sleep Studies 
+### 🧭 Background
+- **Seoul National University, AIoT Lab** (Jul 2025 – Dec 2025, Prof. Hyung-sin Kim)  
+  Sleep stage modeling with time series foundation models and whole-night sequence modeling
+- **IIT Madras, Medical Imaging and Reconstruction Lab** (Dec 2023 – May 2024, Prof. Ganapathy Krishnamurthi)  
+  CT pancreas segmentation and radiomics for chronic pancreatitis
+- **IIT Madras:** B.Tech in Engineering Design + M.Tech in Automotive Engineering (Dual Degree)
 
-## 📁 Project Overview
-| Project | Description |
-|--------|-------------|
-| [sleep-stage-classification](https://github.com/dongjaeseo/sleep-stage-classification) | Sleep staging using time-series foundation model (@SNU Prof. Hyung-sin Kim)|
-| [chronic-pancreatitis](https://github.com/dongjaeseo/chronic-pancreatitis) | CT-based Pancreas Segmentation for Chronic Pancreatitis Studies (@IITM Prof. Ganapathy Krishnamurthi)|
-| [mini-projects](https://github.com/dongjaeseo/mini-projects) | Early AI projects: lane detection, captioning, etc. |
-| [ai-fundamentals](https://github.com/dongjaeseo/ai-fundamentals) | Basic ML/DL practice scripts from AI Academy |
+### 📂 Projects
+- [sleep-stage-classification](https://github.com/dongjaeseo/sleep-stage-classification): pretrained time series embeddings + Mamba for whole-night sleep staging (macro-F1 0.60 → 0.76)
+- [chronic-pancreatitis](https://github.com/dongjaeseo/chronic-pancreatitis): SwinUNETR pancreas segmentation on CT (0.85 Dice) + radiomic feature analysis
 
-Website: [https://dongjaeseo.github.io](https://dongjaeseo.github.io)
+### 🔍 Research Interests
+Computational Imaging · Diffuse Optics · Medical Imaging  
+Physiological Time Series · Representation Learning
