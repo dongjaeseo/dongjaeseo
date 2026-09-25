@@ -8,7 +8,7 @@ I work on machine learning for imaging and physiological signals.
 Currently, I'm working on 3D diffuse optical tomography (DOT): simulating light transport through tissue on GPU and reconstructing volumes from simulated measurements.
 
 ### 🧭 Background
-- **Seoul National University, AIoT Lab** (Jul 2025 – Dec 2025, Prof. Hyung-sin Kim)  
+- **Seoul National University, AIoT Lab** (Jul 2025 – Dec 2025)  
   Sleep stage modeling with time series foundation models and whole-night sequence modeling
 - **IIT Madras, Medical Imaging and Reconstruction Lab** (Dec 2023 – May 2024, Prof. Ganapathy Krishnamurthi)  
   CT pancreas segmentation and radiomics for chronic pancreatitis
