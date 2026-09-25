@@ -1,6 +1,3 @@
-Here's an updated version you can paste. It adds your current Stony Brook role, keeps your earlier work, and links your two main repos.
-
-markdown
 ## Dongjae Seo
 Email: dongjae.seo@stonybrook.edu
 
