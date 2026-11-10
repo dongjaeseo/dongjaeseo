@@ -4,8 +4,8 @@ Email: dongjae.seo@stonybrook.edu
 MS Computer Science student at **Stony Brook University**  
 Graduate Researcher, **Photon Intelligence Lab** (Prof. Akshat Dave)
 
-I work on machine learning for imaging and physiological signals.  
-Currently, I'm working on 3D diffuse optical tomography (DOT): simulating light transport through tissue on GPU and reconstructing volumes from simulated measurements.
+I work on computational imaging and computer vision.
+Right now: imaging through a scattering medium (diffuse optical tomography). I simulate light transport on GPU and reconstruct images from the measurements, with classical methods and neural networks.
 
 ### 🧭 Background
 - **Seoul National University, AIoT Lab** (Jul 2025 – Dec 2025)  
